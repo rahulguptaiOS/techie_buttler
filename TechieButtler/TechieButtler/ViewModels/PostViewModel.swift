@@ -49,7 +49,7 @@ class PostViewModel {
     
     func loadNextPage() {
         if isLoading { return }
-        currentPage += 1
+        currentPage += 1 
         
         fetchData()
     }
