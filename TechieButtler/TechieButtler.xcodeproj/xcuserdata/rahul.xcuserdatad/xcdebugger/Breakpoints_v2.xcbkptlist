@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB284D73-0B96-49D1-BC34-49D7A17039DF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65044B5A-0725-48E6-B42F-1D21A28559D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechieButtler/Network/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchPosts(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CF0AA94-6F77-45B8-B5BD-A798366B8B38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechieButtler/Views/ViewControllers/PostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "updateTableView(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B62EF5A-049A-4B71-8123-2F98EE634486"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechieButtler/ViewModels/PostViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B62EF5A-049A-4B71-8123-2F98EE634486 - b299b17eaf5ef6c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;TechieButtler.Post&gt;, TechieButtler.NetworkError&gt;) -&gt; () in TechieButtler.PostViewModel.fetchData() -&gt; ()"
+                  moduleName = "TechieButtler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahul/Documents/techieButtlee/TechieButtler/TechieButtler/ViewModels/PostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "5B62EF5A-049A-4B71-8123-2F98EE634486 - 58af91f1a4664dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechieButtler.PostViewModel.fetchData() -&gt; ()"
+                  moduleName = "TechieButtler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahul/Documents/techieButtlee/TechieButtler/TechieButtler/ViewModels/PostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "5B62EF5A-049A-4B71-8123-2F98EE634486 - fe6f08c3ef867ec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TechieButtler.Post) -&gt; TechieButtler.PostDetailModel in TechieButtler.PostViewModel.fetchData() -&gt; ()"
+                  moduleName = "TechieButtler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahul/Documents/techieButtlee/TechieButtler/TechieButtler/ViewModels/PostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60F7890E-45CD-4F50-9DDD-6B8840FD3C03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechieButtler/ViewModels/CommentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchData(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60F7890E-45CD-4F50-9DDD-6B8840FD3C03 - b74bfceda4d36256"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;TechieButtler.Comment&gt;, TechieButtler.NetworkError&gt;) -&gt; () in TechieButtler.CommentViewModel.fetchData(id: Swift.Optional&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "TechieButtler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahul/Documents/techieButtlee/TechieButtler/TechieButtler/ViewModels/CommentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "60F7890E-45CD-4F50-9DDD-6B8840FD3C03 - e8a1b85d964c7102"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechieButtler.CommentViewModel.fetchData(id: Swift.Optional&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "TechieButtler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahul/Documents/techieButtlee/TechieButtler/TechieButtler/ViewModels/CommentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

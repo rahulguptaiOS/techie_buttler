@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  TechieButtler
+
+  Created by Rahul Gupta on 04/05/24.
+  
+*/
+
+"ok" = "Ok";
+"error" = "Error";
+"posts" = "Posts";
+"noPost" = "No Post found";
+"comments" = "Comments";
+"userId" = "User Id: ";
