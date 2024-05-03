@@ -24,7 +24,7 @@ Basic understanding of Swift, MVVM, Combine, Swinject, and iOS development conce
  Cloning the Repository:
 
 ### Bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/rahulguptaiOS/techie_buttler.git
 Use code with caution.
 
 ### Opening the Project in Xcode:
