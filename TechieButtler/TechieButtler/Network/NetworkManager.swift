@@ -21,6 +21,8 @@ enum NetworkError: Error {
 class NetworkManager {
 
     static let shared = NetworkManager() // Singleton instance
+    
+    private init () {}
 
     func fetchData<T: Decodable>(url: URL?, completion: @escaping (Result<T, NetworkError>) -> Void) {
         guard let url = url else {
